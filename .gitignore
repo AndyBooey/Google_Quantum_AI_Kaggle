@@ -28,3 +28,7 @@ kaggle.json
 # Generated submissions
 submissions/*
 !submissions/.gitkeep
+
+# Kaggle data
+data/*
+!data/.gitkeep
